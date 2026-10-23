@@ -435,6 +435,7 @@ class OperatorDashboard(ttk.Frame):
             report += "-" * 30 + "\n"
 
         self.text_area.insert(tk.END, report)
+        https://github.com/zayyanabdulla831-cmd/Programming-512-Assignment.git
 
 
 if __name__ == "__main__":
